@@ -5,7 +5,7 @@
 
 0x1938b58567a139F62953fF6aBADc2dA67319640a
 
-CCD Mannet - 
+CCD Mannet - Pending Verification
 
 ## Installing RUST and Cargo
 ```
